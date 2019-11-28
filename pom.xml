@@ -2,8 +2,8 @@
 
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.SONY</groupId>
-	<artifactId>SONY</artifactId>
+	<groupId>com.gamutkart</groupId>
+	<artifactId>gamutkart</artifactId>
 	<packaging>war</packaging>
 	<version>1.1-SNAPSHOT</version>
 	
@@ -25,7 +25,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>SONY</finalName>
+		<finalName>gamutkart</finalName>
 	</build>
 
 
