@@ -28,11 +28,6 @@
 		<finalName>SONY</finalName>
 	</build>
 
-	<sonar>
-		mvn sonar:sonar \
-  -Dsonar.host.url=http://172.17.0.2:9000 \
-  -Dsonar.login=73b7c42447407a0c05be10058ae91111d0771d25
-  </sonar>
 
 </project>
 
