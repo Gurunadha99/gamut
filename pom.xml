@@ -24,6 +24,14 @@
 			
 	</dependencies>
 
+	<distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>jenkins-releases</name>
+        <url>http://172.17.0.2:8081/artifactory/libs-release-local</url>
+    </repository>
+</distributionManagement>
+
 	<build>
 		<finalName>gamutkart</finalName>
 	</build>
